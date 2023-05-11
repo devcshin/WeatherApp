@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitPetTest</string>
+
+    <string name="city_name">Seoul</string>
+    <string name="day">Monday</string>
+    <string name="weather_text">Windy</string>
+    <string name="temperature">21℃</string>
+
+</resources>
